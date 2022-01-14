@@ -6,6 +6,6 @@ int main()
     int a,b;
     a = 5;
     b = 4;
-    cout<< (a+b)<<endl;
+    cout<< "Sum is: "<<(a+b)<<endl;
     return 0;
 }
